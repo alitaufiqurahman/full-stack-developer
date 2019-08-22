@@ -3,6 +3,7 @@ RENCANA ALI
 - Belajar Javascript
   * Framework Javascript
     ^ Veu
+    ^ React
 - Struktur Data Dasar
 - Belajar Laravel
 - Belajar Android Studio
