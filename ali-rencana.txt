@@ -2,5 +2,6 @@ RENCANA ALI
 
 - Belajar Javascript
   * Framework Javascript
+- Struktur Data Dasar
 - Belajar Laravel
 - Belajar Android Studio
