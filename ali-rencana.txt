@@ -1,0 +1,6 @@
+RENCANA ALI 
+
+- Belajar Javascript
+  * Framework Javascript
+- Belajar Laravel
+- Belajar Android Studio
